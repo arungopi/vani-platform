@@ -1,2 +1,2 @@
-# vani-platform
+# Vani Platform
 A platform for therapy
